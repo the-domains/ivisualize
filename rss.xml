@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ivisualize]]></title>
         <description><![CDATA[ivisualize]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ivisualize/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 18:26:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 18:30:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ivisualize/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The most ideal outcome for a city's economic plan is that it is approved and implemented, not shelved: a community stands to benefit, businesses and residents alike thrive, the quality of life improves. The City of Bishop, California, called on the economic consulting firm that I work for to conduct the Economic Development Element Update for the city's General Plan, and it was unanimously approved by the City Council. We worked with volunteer working groups to fine-tune the community’s goals: Create a vibrant, pedestrian-friendly downtown; promote Bishop and the region as a year-round tourist destination; support a balanced, diverse local economy; and leverage broadband access and strengthen the community’s role as a regional center for retail, education and healthcare. My humble role on the project was creating the graphics and maps for the working group findings and the demographic characteristics, as well as designing and editing all client deliverables including the final report, which you can see here: http://www.cityofbishop.com/wp-content/uploads/2013/04/2015_Draft_Economic_Development_Element_Update.pdf</p>]]></description>
-            <link>undefinedthe-most-ideal-outcome-for-a-citys-economic-plan-is-that-it/index.html</link>
+            <title><![CDATA[City of Bishop Economic Development Element Update]]></title>
+            <description><![CDATA[<article><h1>City of Bishop Economic Development Element Update</h1><p>The most ideal outcome for a city's economic plan is that it is approved and implemented, not shelved: a community stands to benefit, businesses and residents alike thrive, the quality of life improves. The City of Bishop, California, called on the economic consulting firm that I work for to conduct the Economic Development Element Update for the city's General Plan, and it was unanimously approved by the City Council. We worked with volunteer working groups to fine-tune the community’s goals: Create a vibrant, pedestrian-friendly downtown; promote Bishop and the region as a year-round tourist destination; support a balanced, diverse local economy; and leverage broadband access and strengthen the community’s role as a regional center for retail, education and healthcare. My humble role on the project was creating the graphics and maps for the working group findings and the demographic characteristics, as well as designing and editing all client deliverables including the final report, which you can see here: http://www.cityofbishop.com/wp-content/uploads/2013/04/2015_Draft_Economic_Development_Element_Update.pdf</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bedf8d5-db45-4a1c-a80d-1a31f1c0e286.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ivisualize/the-most-ideal-outcome-for-a-citys-economic-plan-is-that-it/index.html</link>
             <guid isPermaLink="false">0bdbfae2-bfcd-4c9e-abf2-ac8c0d3947b1</guid>
-            <pubDate>Tue, 22 Mar 2016 18:26:16 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 18:29:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
